@@ -7,7 +7,7 @@ The assembler takes one text file as input and provides object file based on ELF
 
 
 
-This object file contains symbol table, sections content and reallocation table. 
+This object file contains symbol table, sections content and rellocation table. 
 
 
 
