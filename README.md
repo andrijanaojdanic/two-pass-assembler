@@ -11,6 +11,6 @@ This object file contains symbol table, sections content and rellocation table.
 
 
 
-It is assumed that section are placed one after another in memory.
+It is assumed that sections are placed one after another in memory.
 
 How to test: 
